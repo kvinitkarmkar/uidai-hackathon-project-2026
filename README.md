@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="assets/uidai-banner.png" width="100%" alt="UIDAI Hackathon Banner">
-</p>
-
 <h1 align="center">UIDAI Data Hackathon 2026</h1>
 
 <p align="center">
-  <b>Aadhaar Demographic Update Dataset Analysis</b>
+  <img src="assets/uidai-banner.png" width="100%" alt="UIDAI Hackathon Banner">
 </p>
 
 ### **Project Overview**
