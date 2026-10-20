@@ -1,4 +1,4 @@
-# Aadhaar Data Analytics & Policy Optimization
+## Aadhaar Data Analytics & Policy Optimization
 
 <p align="center">
   <img src="assets/uidai-banner.png" alt="UIDAI Data Hackathon 2026 Banner" width="100%">
