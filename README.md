@@ -19,36 +19,6 @@ The data cleaning process was critical in identifying system inefficiencies:
 
 ---
 
-### **Infrastructure Priority: Critical Districts**
-
-We identified "Hotspots" with the highest duplication counts, requiring immediate infrastructure upgrades:
-
-<img src="visuals/charts/infrastructure_priority_districts.png"  width="100%">
----
-
-### **Strategic Policy Recommendations**
-
-#### **Strategy A: Infrastructure & Load Management (High-Volume)**
-
-* **Target**: Central (9.9M), East (8.4M), and South (6.4M) regions.
-* **Focus**: Expand **Aadhaar Seva Kendras (ASKs)** by 40-50% in states like **Uttar Pradesh (6.46M updates)** to prevent overcrowding.
-
-#### **Strategy B: "Child-First" Policy (Low-Volume/Emerging)**
-
-* **Target**: North, West, and Northeast regions.
-* **Focus**: Increase the **Child Update Ratio (currently 9.8%)** through mandatory school-based enrollment camps.
-* **Mandates**: Link Aadhaar updates to Class 10 & 12 Board Exam registrations.
-
----
-
-### **Economic Impact & ROI**
-
-* **Subsidy Leakage Prevention**: Purging duplicates and ghost beneficiaries is projected to save **₹12,000 Cr/year**.
-* **Operational Savings**: Decentralizing updates to school camps will reduce manual processing costs by **₹3,500 Cr/year**.
-* **Overall Value Creation**: This framework offers a **36x Return on Investment (ROI)** over a 3-year period.
-
----
-
 ### **Tech Stack**
 
 * **Language**: Python (Pandas, Matplotlib, Seaborn)
