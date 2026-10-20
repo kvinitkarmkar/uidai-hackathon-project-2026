@@ -1,7 +1,11 @@
-## Aadhaar Data Analytics & Policy Optimization
+<p align="center">
+  <img src="assets/uidai-banner.png" width="100%" alt="UIDAI Hackathon Banner">
+</p>
+
+<h1 align="center">UIDAI Data Hackathon 2026</h1>
 
 <p align="center">
-  <img src="assets/uidai-banner.png" alt="UIDAI Data Hackathon 2026 Banner" width="100%">
+  <b>Aadhaar Demographic Update Dataset Analysis</b>
 </p>
 
 ### **Project Overview**
