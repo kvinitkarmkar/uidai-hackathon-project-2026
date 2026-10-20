@@ -1,5 +1,9 @@
 # Aadhaar Data Analytics & Policy Optimization
 
+<p align="center">
+  <img src="assets/uidai-banner.png" alt="UIDAI Data Hackathon 2026 Banner" width="100%">
+</p>
+
 ### **Project Overview**
 
 This project focuses on the large-scale analysis of Aadhaar update trends across India. By applying advanced data cleaning and demographic profiling, we identified a massive **22.89% duplication rate** in raw data. The goal is to transition the current reactive update system into a proactive, **"Child-First"** policy framework that maximizes Government ROI.
